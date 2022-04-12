@@ -28,3 +28,8 @@
 | `git status` | give info on which files that have been changed and those you need to add/commit | 
 | `git log` | gives log of commit, EXIT with q or ctrl+c | 
 
+
+<br></br>
+
+---
+This cheatsheet was made with the help of [this website](https://www.markdownguide.org/cheat-sheet/)!
